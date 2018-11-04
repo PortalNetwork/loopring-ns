@@ -5,7 +5,7 @@
 # Overview
 
 ## 💡 What is Loopring?
-Loopring is the project that wants to make spending crypto as easy as a credit card. Creators of the NPXS token hope that it will one day be used on their Ethereum-based Point-of-Sale devices. This approach could give basic banking services to underdeveloped regions like Latin America and Indonesia.
+Loopring, an open source decentralized exchange protocol, is aiming to accelerate the shift toward a widely-used decentralized exchange architecture and build the financial system of the future.
 
 ## 💡 What is BNS?
 BNS – or blockchain name system – is the protocol on the internet that turns human-comprehensible decentralized website names such as 'website.npxs' or 'mywebsite.npxs' into addresses understandable by decentralized network machines.
